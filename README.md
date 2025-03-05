@@ -13,7 +13,7 @@ EmailHub es una plataforma que te permite conectar múltiples cuentas de correo 
 
 ## 🖼️ Capturas de Pantalla
 
-![Dashboard](https://imgur.com/WAs2JrG)
+![Dashboard](https://i.imgur.com/RWoDUYj.png)
 ![Enviar Correos](https://imgur.com/3vd24Ag)
 ![Perfil](https://imgur.com/sn55NIW)
 ![Vista previa en acción](https://imgur.com/a/CWXSlYJ)
