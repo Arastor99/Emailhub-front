@@ -13,11 +13,21 @@ EmailHub es una plataforma que te permite conectar múltiples cuentas de correo 
 
 ## 🖼️ Capturas de Pantalla
 
-![Dashboard](https://i.imgur.com/RWoDUYj.png)
-![Enviar Correos](https://i.imgur.com/B6utqU4.png)
-![Perfil](https://i.imgur.com/hTeR3aA.png)
-![Vista previa en acción](https://i.imgur.com/DyVgBQ0.gif)
+### Dashboard
 
+![Dashboard](https://i.imgur.com/RWoDUYj.png)
+
+### Enviar Correos
+
+![Enviar Correos](https://i.imgur.com/B6utqU4.png)
+
+### Perfil
+
+![Perfil](https://i.imgur.com/hTeR3aA.png)
+
+### Vista previa en acción
+
+![Vista previa en acción](https://i.imgur.com/DyVgBQ0.gif)
 
 ## 🛠️ Tecnologías Usadas
 
@@ -25,4 +35,4 @@ EmailHub es una plataforma que te permite conectar múltiples cuentas de correo 
 - **Backend:** NestJS (TypeScript, Prisma, PostgreSQL)  
 - **Autenticación:** OAuth2, JWT  
 - **Manejo de cookies:** `js-cookie`  
-- **Base de datos:** PostgreSQL  
+- **Base de datos:** PostgreSQL
